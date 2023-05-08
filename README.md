@@ -12,4 +12,6 @@ Using your knowledge of TensorFlow, you’ll design a neural network, or deep le
 
 Using your knowledge of TensorFlow, optimize your model to achieve a target predictive accuracy higher than 75%.
 
+There were 3 layers used for this model, each of which had 449 parameters and accuracy of 72% which is only 3% less than the desired 75%. 
+
 
